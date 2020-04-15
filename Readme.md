@@ -7,7 +7,7 @@ Instructions to do so can be found here: https://golang.org/dl/
 
 
 ## Running the Application
-Run `go run main.go` 
+Run `go run *.go` 
 This will serve the application on port `8080`
 
 
